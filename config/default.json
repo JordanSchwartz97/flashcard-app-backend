@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://schwartzj1297:41155@cluster0.v1xt3.mongodb.net/flashcard-app?retryWrites=true&w=majority"
+    
+}
